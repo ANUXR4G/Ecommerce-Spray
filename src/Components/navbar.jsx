@@ -4,7 +4,7 @@ import logo from '../Assets/logo.png';
 
 const Navbar = () => {
   return (
-    <nav className="flex items-center justify-between p-4 bg-[#121212] text-white">
+    <nav className="flex items-center justify-evenly p-4 bg-[#121212] text-white">
       <div className="flex items-center">
         <img src={logo} alt="Logo" className="h-12 mr-4" />
         <h1 className="text-xl md:text-2xl">My E-commerce Site</h1>
