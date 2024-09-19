@@ -1,6 +1,6 @@
 // src/Components/Navbar.js
 import React from 'react';
-import logo from '../Assets/logo.png'; // Adjust the path as necessary
+import logo from '../Assets/logo.png'; 
 
 const Navbar = () => {
   return (
